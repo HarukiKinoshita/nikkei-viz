@@ -1,14 +1,14 @@
 <template>
-  <div class="home columns is-gapless">
-    <div class="column is-12-tablet is-9-desktop">
-      <l-map id="map" :zoom="zoom" :center="center">
+  <div class="home columns is-multiline is-gapless">
+    <div class="column is-12-tablet is-9-desktop mb-4">
+      <l-map id="map" :zoom.sync="zoom" :center="center">
         <l-tile-layer :url="url" :attribution="attribution"></l-tile-layer>
         <l-control position="topleft" />
 
         <!-- Path  -->
-        <l-polyline v-for="(group, index) in groups" :key="`path-`+index" :lat-lngs="group.latlngs" :opacity="0.5" color="#CC415A" :weight="0.5" :renderer="myRenderer">
+        <l-polyline v-for="(group, index) in groups" :key="`path-`+index" :lat-lngs="group.latlngs" :opacity="0.5" color="#CC415A" :weight="0.2*zoom" :renderer="myRenderer">
           <l-tooltip>
-            <strong>{{ groups[index].lastaddress }} ▶︎ {{ groups[index].w_assemblycenter }} ▶︎ {{ groups[index].m_camp }}</strong>: {{ groups[index].pop.toLocaleString() }}
+            <strong>{{ groups[index].lastaddress }} ▶︎ {{ groups[index].m_camp }} : {{ groups[index].pop.toLocaleString() }}</strong>:
           </l-tooltip>
         </l-polyline>
 
@@ -16,17 +16,15 @@
         <l-circle
           v-for="(item, index) in lastaddress"
           :key="`lastaddress-`+index"
+          ref="lastaddress"
+          :name="item.lastaddress"
           :lat-lng="item.latlng"
-          :radius="item.radius"
+          :radius="item.radius*10/(zoom*2)"
           :stroke="false"
-          fillColor="darkmagenta"
-          :fillOpacity="0.4"
           v-on:mouseover="mouseOverAction('lastaddress', index)"
-        >
-          <!-- <l-tooltip>
-            <strong>{{ lastaddress[index].lastaddress }}</strong>: {{ lastaddress[index].pop.toLocaleString() }}
-          </l-tooltip> -->
-        </l-circle>
+          v-on:click="mouseOverAction('lastaddress', index)"
+          :l-style="circlestyle.lastaddress"
+        ></l-circle>
 
         <!-- Assembly Center -->
         <!-- <l-circle zIndexOffset="10" v-for="(ac, index) in assemblycenters" :key="`ac-`+index" :lat-lng="ac.latlng" :radius="ac.radius" :stroke="false" fillColor="darkgoldenrod" :fillOpacity="0.4">
@@ -37,14 +35,16 @@
 
         <!-- Camp -->
         <l-circle
-          v-for="(camp, index) in m_camp"
+          v-for="(item, index) in m_camp"
           :key="index"
-          :lat-lng="camp.latlng"
-          :radius="camp.radius"
+          ref="m_camp"
+          :name="item.m_camp"
+          :lat-lng="item.latlng"
+          :radius="item.radius*10/(zoom*2)"
           :stroke="false"
-          fillColor="darkgoldenrod"
-          :fillOpacity="0.4"
           v-on:mouseover="mouseOverAction('m_camp', index)"
+          v-on:click="mouseOverAction('m_camp', index)"
+          :l-style="circlestyle.camp"
         >
           <!-- <l-tooltip>
             <strong>{{ m_camp[index].m_camp }}</strong>: {{ m_camp[index].pop.toLocaleString() }}
@@ -57,7 +57,7 @@
     </div>
     <!-- <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/> -->
-    <div class="column">
+    <div class="column is-12-tablet is-3-desktop">
       <div v-if="targetLocationInfo" class="mb-6">
         <p class="mb-4 is-family-serif">
           <span class="has-text-weight-bold is-family-sans-serif">{{ targetLocationInfo.pop.toLocaleString() }}</span> people were
@@ -68,7 +68,7 @@
         <p class="subtitle" v-if="targetLocationInfo.type !== 'Place of Residence'">{{ targetLocationInfo.type }}</p>
       </div>
 
-      <div class="my-6" v-if="mode !== 'DEBUG'">
+      <div class="my-6" v-if="mode == 'DEBUG'">
         <table class="table is-bordered" style="margin: auto;">
           <tr v-for="(value, key) in targetLocationInfo" :key="key">
             <td>{{ key }}</td>
@@ -133,7 +133,12 @@ export default {
       colorScale4: [ "#CC415A", "#ED9AB0", "#92B2DE", "#2F74B3"],
       targetLocationName: "",
       targetLocationInfo: "",
-      targetLocationCategory: ""
+      targetLocationCategory: "",
+      circlestyle: {
+        lastaddress: { fillColor: "darkmagenta", fillOpacity: 0.4 },
+        camp: { fillColor: "darkgoldenrod", fillOpacity: 0.4 },
+        highlight: { fillOpacity: 0.9 }
+      }
     }
   },
   methods: {
@@ -141,6 +146,9 @@ export default {
       this.targetLocationCategory = cat
       this.targetLocationName = this[cat][index][cat]
       this.targetLocationInfo = this[cat][index]
+      // this.$set(this.$refs[cat][index], 'fillOpacity', 0.8)
+      // console.log(this[cat][index][cat]);
+      console.log(this.$refs[cat][index].name)
     },
     removeTarget() {
       this.targetLocationCategory = ""
@@ -151,7 +159,7 @@ export default {
     //   return this.colorScale4[(index/400).toFixed()]
     // },
     getLineWeight(index) {
-      return (index/400).toFixed()*0.05*this.zoom
+      return (index/400).toFixed()*0.4*this.zoom
     }
   },
   mounted() {
@@ -160,16 +168,17 @@ export default {
   computed: {
     groups() {
       return this.wra_master_grouped
-        .filter(el => el[this.targetLocationCategory] == this.targetLocationName && el.w_assemblycenter_lat !== 0 && el.w_assemblycenter_lng !== 0 && el.m_camp_lat !== 0 && el.m_camp_lng !== 0 && el.lastaddresses_lat !== 0 && el.lastaddress_lng !== 0)
+        .filter(el => el[this.targetLocationCategory] == this.targetLocationName)
+        .filter(el => el.w_assemblycenter_lat !== 0 && el.w_assemblycenter_lng !== 0 && el.m_camp_lat !== 0 && el.m_camp_lng !== 0 && el.lastaddresses_lat !== 0 && el.lastaddress_lng !== 0)
         .map(el => ({
           ...el,
-          latlngs: [[el.lastaddress_lat, el.lastaddress_lng], [el.m_camp_lat, el.m_camp_lng]]
+          latlngs: [[el.lastaddress_lat, el.lastaddress_lng], [el.m_camp_lat, el.m_camp_lng]],
+          radius: Math.sqrt(el.pop/Math.PI)*1000
           // latlngs: [[el.lastaddress_lat, el.lastaddress_lng], [el.w_assemblycenter_lat, el.w_assemblycenter_lng], [el.m_camp_lat, el.m_camp_lng]]
         }))
     },
     lastaddress() {
       return this.wra_master_lastaddress
-        .filter(el => el.lastaddress_lat && el.lastaddress_lng && el.pop)
         .map(el => ({
           ...el,
           latlng: [el.lastaddress_lat, el.lastaddress_lng],
