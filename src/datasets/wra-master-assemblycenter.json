@@ -1,0 +1,104 @@
+[
+  {
+    "w_assemblycenter": "None",
+    "pop": 20107,
+    "w_assemblycenter_lat": 0,
+    "w_assemblycenter_lng": 0
+  },
+  {
+    "w_assemblycenter": "Santa Anita",
+    "pop": 18400,
+    "w_assemblycenter_lat": 34.1333,
+    "w_assemblycenter_lng": -118.0333
+  },
+  {
+    "w_assemblycenter": "Manzanar",
+    "pop": 9545,
+    "w_assemblycenter_lat": 36.7333,
+    "w_assemblycenter_lng": -118.0667
+  },
+  {
+    "w_assemblycenter": "Tanforan",
+    "pop": 7687,
+    "w_assemblycenter_lat": 37.6167,
+    "w_assemblycenter_lng": -122.4
+  },
+  {
+    "w_assemblycenter": "Puyallup",
+    "pop": 7325,
+    "w_assemblycenter_lat": 47.1833,
+    "w_assemblycenter_lng": -122.2833
+  },
+  {
+    "w_assemblycenter": "Pomona",
+    "pop": 5263,
+    "w_assemblycenter_lat": 34.05,
+    "w_assemblycenter_lng": -117.75
+  },
+  {
+    "w_assemblycenter": "Fresno",
+    "pop": 5066,
+    "w_assemblycenter_lat": 36.7333,
+    "w_assemblycenter_lng": -119.7667
+  },
+  {
+    "w_assemblycenter": "Tulare",
+    "pop": 4911,
+    "w_assemblycenter_lat": 36.2,
+    "w_assemblycenter_lng": -119.3333
+  },
+  {
+    "w_assemblycenter": "Pinedale",
+    "pop": 4659,
+    "w_assemblycenter_lat": 36.84,
+    "w_assemblycenter_lng": -119.8
+  },
+  {
+    "w_assemblycenter": "Sacramento (Walerga)",
+    "pop": 4595,
+    "w_assemblycenter_lat": 0,
+    "w_assemblycenter_lng": 0
+  },
+  {
+    "w_assemblycenter": "Stockton",
+    "pop": 4172,
+    "w_assemblycenter_lat": 37.95,
+    "w_assemblycenter_lng": -121.2833
+  },
+  {
+    "w_assemblycenter": "Merced",
+    "pop": 4076,
+    "w_assemblycenter_lat": 37.3,
+    "w_assemblycenter_lng": -120.4667
+  },
+  {
+    "w_assemblycenter": "Portland",
+    "pop": 3658,
+    "w_assemblycenter_lat": 45.5167,
+    "w_assemblycenter_lng": -122.6667
+  },
+  {
+    "w_assemblycenter": "Salinas",
+    "pop": 3550,
+    "w_assemblycenter_lat": 36.6667,
+    "w_assemblycenter_lng": -121.65
+  },
+  {
+    "w_assemblycenter": "Turlock",
+    "pop": 3546,
+    "w_assemblycenter_lat": 37.4833,
+    "w_assemblycenter_lng": -120.8333
+  },
+  {
+    "w_assemblycenter": "Marysville (Arboga)",
+    "pop": 2403,
+    "w_assemblycenter_lat": 0,
+    "w_assemblycenter_lng": 0
+  },
+  {
+    "w_assemblycenter": "Mayer",
+    "pop": 249,
+    "w_assemblycenter_lat": 34.3833,
+    "w_assemblycenter_lng": -112.2333
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "m_camp": "Poston",
+    "pop": 18063,
+    "m_camp_lat": 34.15,
+    "m_camp_lng": -114.2833
+  },
+  {
+    "m_camp": "Tulelake",
+    "pop": 15071,
+    "m_camp_lat": 41.8833,
+    "m_camp_lng": -121.3667
+  },
+  {
+    "m_camp": "Gilariver",
+    "pop": 13158,
+    "m_camp_lat": 32.1667,
+    "m_camp_lng": -111.8667
+  },
+  {
+    "m_camp": "Heartmountain",
+    "pop": 10921,
+    "m_camp_lat": 44.5167,
+    "m_camp_lng": -109.05
+  },
+  {
+    "m_camp": "Manzanar",
+    "pop": 10140,
+    "m_camp_lat": 36.7333,
+    "m_camp_lng": -118.0667
+  },
+  {
+    "m_camp": "Minidoka",
+    "pop": 9499,
+    "m_camp_lat": 42.6667,
+    "m_camp_lng": -114.2333
+  },
+  {
+    "m_camp": "Topaz",
+    "pop": 8567,
+    "m_camp_lat": 39.3833,
+    "m_camp_lng": -112.7167
+  },
+  {
+    "m_camp": "Jerome",
+    "pop": 8475,
+    "m_camp_lat": 33.3833,
+    "m_camp_lng": -91.4667
+  },
+  {
+    "m_camp": "Rohwer",
+    "pop": 8408,
+    "m_camp_lat": 33.75,
+    "m_camp_lng": -91.2667
+  },
+  {
+    "m_camp": "Amache",
+    "pop": 6910,
+    "m_camp_lat": 38.05,
+    "m_camp_lng": -102.3
+  }
+]

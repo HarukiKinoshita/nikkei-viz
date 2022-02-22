@@ -1,0 +1,1535 @@
+[
+  {
+    "lastaddress": "Los Angeles",
+    "m_originalstate": "CA",
+    "pop": 23045,
+    "lastaddress_lat": 34.1139,
+    "lastaddress_lng": -118.4068
+  },
+  {
+    "lastaddress": "Seattle",
+    "m_originalstate": "WA",
+    "pop": 6546,
+    "lastaddress_lat": 47.6211,
+    "lastaddress_lng": -122.3244
+  },
+  {
+    "lastaddress": "Sacramento",
+    "m_originalstate": "CA",
+    "pop": 5122,
+    "lastaddress_lat": 38.5667,
+    "lastaddress_lng": -121.4683
+  },
+  {
+    "lastaddress": "San Francisco",
+    "m_originalstate": "CA",
+    "pop": 4794,
+    "lastaddress_lat": 37.7562,
+    "lastaddress_lng": -122.443
+  },
+  {
+    "lastaddress": "Torrance",
+    "m_originalstate": "CA",
+    "pop": 3479,
+    "lastaddress_lat": 33.8346,
+    "lastaddress_lng": -118.3417
+  },
+  {
+    "lastaddress": "Spokane",
+    "m_originalstate": "WA",
+    "pop": 3436,
+    "lastaddress_lat": 47.6671,
+    "lastaddress_lng": -117.433
+  },
+  {
+    "lastaddress": "Oakland",
+    "m_originalstate": "CA",
+    "pop": 3403,
+    "lastaddress_lat": 37.7903,
+    "lastaddress_lng": -122.2165
+  },
+  {
+    "lastaddress": "South Gate",
+    "m_originalstate": "CA",
+    "pop": 3271,
+    "lastaddress_lat": 33.9448,
+    "lastaddress_lng": -118.1926
+  },
+  {
+    "lastaddress": "Stockton",
+    "m_originalstate": "CA",
+    "pop": 2936,
+    "lastaddress_lat": 37.9765,
+    "lastaddress_lng": -121.3109
+  },
+  {
+    "lastaddress": "Isleton",
+    "m_originalstate": "CA",
+    "pop": 2703,
+    "lastaddress_lat": 38.1617,
+    "lastaddress_lng": -121.6051
+  },
+  {
+    "lastaddress": "San Joaquin",
+    "m_originalstate": "CA",
+    "pop": 1905,
+    "lastaddress_lat": 36.6057,
+    "lastaddress_lng": -120.1897
+  },
+  {
+    "lastaddress": "Whittier",
+    "m_originalstate": "CA",
+    "pop": 1868,
+    "lastaddress_lat": 33.9678,
+    "lastaddress_lng": -118.0188
+  },
+  {
+    "lastaddress": "Fresno",
+    "m_originalstate": "CA",
+    "pop": 1855,
+    "lastaddress_lat": 36.7831,
+    "lastaddress_lng": -119.7941
+  },
+  {
+    "lastaddress": "Selma",
+    "m_originalstate": "CA",
+    "pop": 1837,
+    "lastaddress_lat": 36.5715,
+    "lastaddress_lng": -119.6143
+  },
+  {
+    "lastaddress": "Salinas",
+    "m_originalstate": "CA",
+    "pop": 1654,
+    "lastaddress_lat": 36.6884,
+    "lastaddress_lng": -121.6317
+  },
+  {
+    "lastaddress": "Tulare",
+    "m_originalstate": "CA",
+    "pop": 1637,
+    "lastaddress_lat": 36.1996,
+    "lastaddress_lng": -119.34
+  },
+  {
+    "lastaddress": "Rocklin",
+    "m_originalstate": "CA",
+    "pop": 1498,
+    "lastaddress_lat": 38.8075,
+    "lastaddress_lng": -121.2488
+  },
+  {
+    "lastaddress": "Sunnyvale",
+    "m_originalstate": "CA",
+    "pop": 1439,
+    "lastaddress_lat": 37.3836,
+    "lastaddress_lng": -122.0256
+  },
+  {
+    "lastaddress": "Renton",
+    "m_originalstate": "WA",
+    "pop": 1432,
+    "lastaddress_lat": 47.4784,
+    "lastaddress_lng": -122.1919
+  },
+  {
+    "lastaddress": "San Jose",
+    "m_originalstate": "CA",
+    "pop": 1363,
+    "lastaddress_lat": 37.3019,
+    "lastaddress_lng": -121.8486
+  },
+  {
+    "lastaddress": "Signal Hill",
+    "m_originalstate": "CA",
+    "pop": 1280,
+    "lastaddress_lat": 33.8029,
+    "lastaddress_lng": -118.1681
+  },
+  {
+    "lastaddress": "Watsonville",
+    "m_originalstate": "CA",
+    "pop": 1240,
+    "lastaddress_lat": 36.9206,
+    "lastaddress_lng": -121.7706
+  },
+  {
+    "lastaddress": "Tacoma",
+    "m_originalstate": "WA",
+    "pop": 1204,
+    "lastaddress_lat": 47.2431,
+    "lastaddress_lng": -122.4531
+  },
+  {
+    "lastaddress": "Lodi",
+    "m_originalstate": "CA",
+    "pop": 1058,
+    "lastaddress_lat": 38.1218,
+    "lastaddress_lng": -121.2932
+  },
+  {
+    "lastaddress": "Manteca",
+    "m_originalstate": "CA",
+    "pop": 916,
+    "lastaddress_lat": 37.7927,
+    "lastaddress_lng": -121.2264
+  },
+  {
+    "lastaddress": "City_Unregistered",
+    "m_originalstate": "Not Found",
+    "pop": 860,
+    "lastaddress_lat": 0,
+    "lastaddress_lng": 0
+  },
+  {
+    "lastaddress": "Woodlake",
+    "m_originalstate": "CA",
+    "pop": 859,
+    "lastaddress_lat": 36.4124,
+    "lastaddress_lng": -119.0999
+  },
+  {
+    "lastaddress": "El Centro",
+    "m_originalstate": "CA",
+    "pop": 848,
+    "lastaddress_lat": 32.7867,
+    "lastaddress_lng": -115.5586
+  },
+  {
+    "lastaddress": "Winters",
+    "m_originalstate": "CA",
+    "pop": 828,
+    "lastaddress_lat": 38.532,
+    "lastaddress_lng": -121.9781
+  },
+  {
+    "lastaddress": "San Diego",
+    "m_originalstate": "CA",
+    "pop": 764,
+    "lastaddress_lat": 32.8312,
+    "lastaddress_lng": -117.1225
+  },
+  {
+    "lastaddress": "Taft",
+    "m_originalstate": "CA",
+    "pop": 733,
+    "lastaddress_lat": 35.1267,
+    "lastaddress_lng": -119.4242
+  },
+  {
+    "lastaddress": "Vacaville",
+    "m_originalstate": "CA",
+    "pop": 699,
+    "lastaddress_lat": 38.359,
+    "lastaddress_lng": -121.968
+  },
+  {
+    "lastaddress": "Lindsay",
+    "m_originalstate": "CA",
+    "pop": 687,
+    "lastaddress_lat": 36.2082,
+    "lastaddress_lng": -119.0897
+  },
+  {
+    "lastaddress": "Pleasanton",
+    "m_originalstate": "CA",
+    "pop": 670,
+    "lastaddress_lat": 37.6663,
+    "lastaddress_lng": -121.8805
+  },
+  {
+    "lastaddress": "Oahu",
+    "m_originalstate": "HI",
+    "pop": 621,
+    "lastaddress_lat": 0,
+    "lastaddress_lng": 0
+  },
+  {
+    "lastaddress": "Tukwila",
+    "m_originalstate": "WA",
+    "pop": 611,
+    "lastaddress_lat": 47.4749,
+    "lastaddress_lng": -122.2727
+  },
+  {
+    "lastaddress": "Walnut Creek",
+    "m_originalstate": "CA",
+    "pop": 604,
+    "lastaddress_lat": 37.9024,
+    "lastaddress_lng": -122.0398
+  },
+  {
+    "lastaddress": "San Mateo",
+    "m_originalstate": "CA",
+    "pop": 601,
+    "lastaddress_lat": 37.5521,
+    "lastaddress_lng": -122.3122
+  },
+  {
+    "lastaddress": "Santa Ana",
+    "m_originalstate": "CA",
+    "pop": 587,
+    "lastaddress_lat": 33.7366,
+    "lastaddress_lng": -117.8819
+  },
+  {
+    "lastaddress": "West Covina",
+    "m_originalstate": "CA",
+    "pop": 563,
+    "lastaddress_lat": 34.0555,
+    "lastaddress_lng": -117.9112
+  },
+  {
+    "lastaddress": "Zillah",
+    "m_originalstate": "WA",
+    "pop": 561,
+    "lastaddress_lat": 46.4084,
+    "lastaddress_lng": -120.2725
+  },
+  {
+    "lastaddress": "Westmorland",
+    "m_originalstate": "CA",
+    "pop": 555,
+    "lastaddress_lat": 33.0389,
+    "lastaddress_lng": -115.6223
+  },
+  {
+    "lastaddress": "Oceanside",
+    "m_originalstate": "CA",
+    "pop": 552,
+    "lastaddress_lat": 33.2247,
+    "lastaddress_lng": -117.3083
+  },
+  {
+    "lastaddress": "Tustin",
+    "m_originalstate": "CA",
+    "pop": 541,
+    "lastaddress_lat": 33.7309,
+    "lastaddress_lng": -117.8106
+  },
+  {
+    "lastaddress": "Santa Paula",
+    "m_originalstate": "CA",
+    "pop": 491,
+    "lastaddress_lat": 34.3521,
+    "lastaddress_lng": -119.0698
+  },
+  {
+    "lastaddress": "Marysville",
+    "m_originalstate": "CA",
+    "pop": 487,
+    "lastaddress_lat": 39.1518,
+    "lastaddress_lng": -121.5835
+  },
+  {
+    "lastaddress": "Wilkeson",
+    "m_originalstate": "WA",
+    "pop": 485,
+    "lastaddress_lat": 47.1034,
+    "lastaddress_lng": -122.0495
+  },
+  {
+    "lastaddress": "Newport Beach",
+    "m_originalstate": "CA",
+    "pop": 464,
+    "lastaddress_lat": 33.6151,
+    "lastaddress_lng": -117.8669
+  },
+  {
+    "lastaddress": "Santa Maria",
+    "m_originalstate": "CA",
+    "pop": 460,
+    "lastaddress_lat": 34.9334,
+    "lastaddress_lng": -120.4432
+  },
+  {
+    "lastaddress": "Los Banos",
+    "m_originalstate": "CA",
+    "pop": 428,
+    "lastaddress_lat": 37.063,
+    "lastaddress_lng": -120.8406
+  },
+  {
+    "lastaddress": "El Cajon",
+    "m_originalstate": "CA",
+    "pop": 367,
+    "lastaddress_lat": 32.8017,
+    "lastaddress_lng": -116.9605
+  },
+  {
+    "lastaddress": "Visalia",
+    "m_originalstate": "CA",
+    "pop": 362,
+    "lastaddress_lat": 36.3276,
+    "lastaddress_lng": -119.3269
+  },
+  {
+    "lastaddress": "Turlock",
+    "m_originalstate": "CA",
+    "pop": 359,
+    "lastaddress_lat": 37.5053,
+    "lastaddress_lng": -120.8588
+  },
+  {
+    "lastaddress": "Sonoma",
+    "m_originalstate": "CA",
+    "pop": 357,
+    "lastaddress_lat": 38.2902,
+    "lastaddress_lng": -122.4598
+  },
+  {
+    "lastaddress": "Morgan Hill",
+    "m_originalstate": "CA",
+    "pop": 341,
+    "lastaddress_lat": 37.1326,
+    "lastaddress_lng": -121.6417
+  },
+  {
+    "lastaddress": "Santa Barbara",
+    "m_originalstate": "CA",
+    "pop": 325,
+    "lastaddress_lat": 34.4285,
+    "lastaddress_lng": -119.7202
+  },
+  {
+    "lastaddress": "Bakersfield",
+    "m_originalstate": "CA",
+    "pop": 318,
+    "lastaddress_lat": 35.3529,
+    "lastaddress_lng": -119.0359
+  },
+  {
+    "lastaddress": "San Jacinto",
+    "m_originalstate": "CA",
+    "pop": 298,
+    "lastaddress_lat": 33.797,
+    "lastaddress_lng": -116.9916
+  },
+  {
+    "lastaddress": "Yuba City",
+    "m_originalstate": "CA",
+    "pop": 294,
+    "lastaddress_lat": 39.1357,
+    "lastaddress_lng": -121.6381
+  },
+  {
+    "lastaddress": "Arroyo Grande",
+    "m_originalstate": "CA",
+    "pop": 289,
+    "lastaddress_lat": 35.1241,
+    "lastaddress_lng": -120.5845
+  },
+  {
+    "lastaddress": "Woodland",
+    "m_originalstate": "CA",
+    "pop": 278,
+    "lastaddress_lat": 38.6712,
+    "lastaddress_lng": -121.75
+  },
+  {
+    "lastaddress": "Palo Alto",
+    "m_originalstate": "CA",
+    "pop": 278,
+    "lastaddress_lat": 37.3913,
+    "lastaddress_lng": -122.1468
+  },
+  {
+    "lastaddress": "Port Orchard",
+    "m_originalstate": "WA",
+    "pop": 274,
+    "lastaddress_lat": 47.5163,
+    "lastaddress_lng": -122.661
+  },
+  {
+    "lastaddress": "San Juan",
+    "m_originalstate": "CA",
+    "pop": 274,
+    "lastaddress_lat": 0,
+    "lastaddress_lng": 0
+  },
+  {
+    "lastaddress": "Fullerton",
+    "m_originalstate": "CA",
+    "pop": 256,
+    "lastaddress_lat": 33.8841,
+    "lastaddress_lng": -117.9279
+  },
+  {
+    "lastaddress": "Puyallup",
+    "m_originalstate": "WA",
+    "pop": 255,
+    "lastaddress_lat": 47.1794,
+    "lastaddress_lng": -122.2902
+  },
+  {
+    "lastaddress": "Coronada",
+    "m_originalstate": "CA",
+    "pop": 248,
+    "lastaddress_lat": 0,
+    "lastaddress_lng": 0
+  },
+  {
+    "lastaddress": "Auburn",
+    "m_originalstate": "CA",
+    "pop": 247,
+    "lastaddress_lat": 38.895,
+    "lastaddress_lng": -121.0778
+  },
+  {
+    "lastaddress": "Santa Clara",
+    "m_originalstate": "CA",
+    "pop": 243,
+    "lastaddress_lat": 37.3645,
+    "lastaddress_lng": -121.968
+  },
+  {
+    "lastaddress": "Piedmont",
+    "m_originalstate": "CA",
+    "pop": 242,
+    "lastaddress_lat": 37.8226,
+    "lastaddress_lng": -122.23
+  },
+  {
+    "lastaddress": "Hawaii",
+    "m_originalstate": "HI",
+    "pop": 240,
+    "lastaddress_lat": 0,
+    "lastaddress_lng": 0
+  },
+  {
+    "lastaddress": "Lawndale",
+    "m_originalstate": "CA",
+    "pop": 236,
+    "lastaddress_lat": 33.8884,
+    "lastaddress_lng": -118.3531
+  },
+  {
+    "lastaddress": "Riverside",
+    "m_originalstate": "CA",
+    "pop": 235,
+    "lastaddress_lat": 33.9381,
+    "lastaddress_lng": -117.3948
+  },
+  {
+    "lastaddress": "Maui",
+    "m_originalstate": "HI",
+    "pop": 234,
+    "lastaddress_lat": 0,
+    "lastaddress_lng": 0
+  },
+  {
+    "lastaddress": "San Leandro",
+    "m_originalstate": "CA",
+    "pop": 215,
+    "lastaddress_lat": 37.7071,
+    "lastaddress_lng": -122.1601
+  },
+  {
+    "lastaddress": "Modesto",
+    "m_originalstate": "CA",
+    "pop": 200,
+    "lastaddress_lat": 37.6374,
+    "lastaddress_lng": -121.0028
+  },
+  {
+    "lastaddress": "Petaluma",
+    "m_originalstate": "CA",
+    "pop": 199,
+    "lastaddress_lat": 38.2423,
+    "lastaddress_lng": -122.6267
+  },
+  {
+    "lastaddress": "San Luis Obisbo",
+    "m_originalstate": "CA",
+    "pop": 191,
+    "lastaddress_lat": 0,
+    "lastaddress_lng": 0
+  },
+  {
+    "lastaddress": "Tehachapi",
+    "m_originalstate": "CA",
+    "pop": 190,
+    "lastaddress_lat": 35.1274,
+    "lastaddress_lng": -118.4749
+  },
+  {
+    "lastaddress": "Madera",
+    "m_originalstate": "CA",
+    "pop": 179,
+    "lastaddress_lat": 36.9631,
+    "lastaddress_lng": -120.0782
+  },
+  {
+    "lastaddress": "WIlliams",
+    "m_originalstate": "CA",
+    "pop": 177,
+    "lastaddress_lat": 0,
+    "lastaddress_lng": 0
+  },
+  {
+    "lastaddress": "Lompoc",
+    "m_originalstate": "CA",
+    "pop": 174,
+    "lastaddress_lat": 34.6618,
+    "lastaddress_lng": -120.4714
+  },
+  {
+    "lastaddress": "Hollister",
+    "m_originalstate": "CA",
+    "pop": 173,
+    "lastaddress_lat": 36.8563,
+    "lastaddress_lng": -121.3981
+  },
+  {
+    "lastaddress": "Livermore",
+    "m_originalstate": "CA",
+    "pop": 164,
+    "lastaddress_lat": 37.6862,
+    "lastaddress_lng": -121.7608
+  },
+  {
+    "lastaddress": "Santa Rosa",
+    "m_originalstate": "CA",
+    "pop": 150,
+    "lastaddress_lat": 38.4458,
+    "lastaddress_lng": -122.7067
+  },
+  {
+    "lastaddress": "Toppenish",
+    "m_originalstate": "WA",
+    "pop": 148,
+    "lastaddress_lat": 46.3806,
+    "lastaddress_lng": -120.3123
+  },
+  {
+    "lastaddress": "Gridley",
+    "m_originalstate": "CA",
+    "pop": 146,
+    "lastaddress_lat": 39.3622,
+    "lastaddress_lng": -121.6971
+  },
+  {
+    "lastaddress": "Riverbank",
+    "m_originalstate": "CA",
+    "pop": 138,
+    "lastaddress_lat": 37.7268,
+    "lastaddress_lng": -120.9402
+  },
+  {
+    "lastaddress": "Soledad",
+    "m_originalstate": "CA",
+    "pop": 137,
+    "lastaddress_lat": 36.4432,
+    "lastaddress_lng": -121.3426
+  },
+  {
+    "lastaddress": "Yakima",
+    "m_originalstate": "WA",
+    "pop": 137,
+    "lastaddress_lat": 46.5923,
+    "lastaddress_lng": -120.5496
+  },
+  {
+    "lastaddress": "San Bernardino",
+    "m_originalstate": "CA",
+    "pop": 127,
+    "lastaddress_lat": 34.1417,
+    "lastaddress_lng": -117.2946
+  },
+  {
+    "lastaddress": "Calexico",
+    "m_originalstate": "CA",
+    "pop": 126,
+    "lastaddress_lat": 32.6849,
+    "lastaddress_lng": -115.4944
+  },
+  {
+    "lastaddress": "Lemoore",
+    "m_originalstate": "CA",
+    "pop": 123,
+    "lastaddress_lat": 36.2949,
+    "lastaddress_lng": -119.7983
+  },
+  {
+    "lastaddress": "San Carlos",
+    "m_originalstate": "CA",
+    "pop": 121,
+    "lastaddress_lat": 37.4982,
+    "lastaddress_lng": -122.268
+  },
+  {
+    "lastaddress": "Santa Cruz",
+    "m_originalstate": "CA",
+    "pop": 119,
+    "lastaddress_lat": 36.9789,
+    "lastaddress_lng": -122.0346
+  },
+  {
+    "lastaddress": "Phoenix",
+    "m_originalstate": "AZ",
+    "pop": 116,
+    "lastaddress_lat": 33.5722,
+    "lastaddress_lng": -112.0891
+  },
+  {
+    "lastaddress": "Longview",
+    "m_originalstate": "WA",
+    "pop": 110,
+    "lastaddress_lat": 46.1461,
+    "lastaddress_lng": -122.9629
+  },
+  {
+    "lastaddress": "Kauai",
+    "m_originalstate": "HI",
+    "pop": 94,
+    "lastaddress_lat": 0,
+    "lastaddress_lng": 0
+  },
+  {
+    "lastaddress": "Needles",
+    "m_originalstate": "CA",
+    "pop": 87,
+    "lastaddress_lat": 34.8164,
+    "lastaddress_lng": -114.6189
+  },
+  {
+    "lastaddress": "Pittsburg",
+    "m_originalstate": "CA",
+    "pop": 83,
+    "lastaddress_lat": 38.0182,
+    "lastaddress_lng": -121.8964
+  },
+  {
+    "lastaddress": "San Buenaventura",
+    "m_originalstate": "CA",
+    "pop": 81,
+    "lastaddress_lat": 34.2741,
+    "lastaddress_lng": -119.2314
+  },
+  {
+    "lastaddress": "Richmond",
+    "m_originalstate": "CA",
+    "pop": 81,
+    "lastaddress_lat": 37.9477,
+    "lastaddress_lng": -122.339
+  },
+  {
+    "lastaddress": "Olympia",
+    "m_originalstate": "WA",
+    "pop": 78,
+    "lastaddress_lat": 47.0417,
+    "lastaddress_lng": -122.8959
+  },
+  {
+    "lastaddress": "White Salmon",
+    "m_originalstate": "WA",
+    "pop": 76,
+    "lastaddress_lat": 45.7283,
+    "lastaddress_lng": -121.4856
+  },
+  {
+    "lastaddress": "Tempe",
+    "m_originalstate": "AZ",
+    "pop": 76,
+    "lastaddress_lat": 33.3881,
+    "lastaddress_lng": -111.9318
+  },
+  {
+    "lastaddress": "Yacolt",
+    "m_originalstate": "WA",
+    "pop": 74,
+    "lastaddress_lat": 45.8653,
+    "lastaddress_lng": -122.4062
+  },
+  {
+    "lastaddress": "Willows",
+    "m_originalstate": "CA",
+    "pop": 67,
+    "lastaddress_lat": 39.5149,
+    "lastaddress_lng": -122.1995
+  },
+  {
+    "lastaddress": "Upland",
+    "m_originalstate": "CA",
+    "pop": 67,
+    "lastaddress_lat": 34.1178,
+    "lastaddress_lng": -117.6603
+  },
+  {
+    "lastaddress": "National City",
+    "m_originalstate": "CA",
+    "pop": 66,
+    "lastaddress_lat": 32.6654,
+    "lastaddress_lng": -117.0983
+  },
+  {
+    "lastaddress": "Redlands",
+    "m_originalstate": "CA",
+    "pop": 65,
+    "lastaddress_lat": 34.0511,
+    "lastaddress_lng": -117.1712
+  },
+  {
+    "lastaddress": "Chico",
+    "m_originalstate": "CA",
+    "pop": 59,
+    "lastaddress_lat": 39.7575,
+    "lastaddress_lng": -121.8152
+  },
+  {
+    "lastaddress": "Vancouver",
+    "m_originalstate": "WA",
+    "pop": 54,
+    "lastaddress_lat": 45.6366,
+    "lastaddress_lng": -122.5967
+  },
+  {
+    "lastaddress": "Ojai",
+    "m_originalstate": "CA",
+    "pop": 52,
+    "lastaddress_lat": 34.4487,
+    "lastaddress_lng": -119.2469
+  },
+  {
+    "lastaddress": "South Bend",
+    "m_originalstate": "WA",
+    "pop": 51,
+    "lastaddress_lat": 46.6678,
+    "lastaddress_lng": -123.8006
+  },
+  {
+    "lastaddress": "Sausalito",
+    "m_originalstate": "CA",
+    "pop": 48,
+    "lastaddress_lat": 37.858,
+    "lastaddress_lng": -122.4932
+  },
+  {
+    "lastaddress": "Rialto",
+    "m_originalstate": "CA",
+    "pop": 48,
+    "lastaddress_lat": 34.1174,
+    "lastaddress_lng": -117.3894
+  },
+  {
+    "lastaddress": "Lyman",
+    "m_originalstate": "WA",
+    "pop": 45,
+    "lastaddress_lat": 48.523,
+    "lastaddress_lng": -122.0634
+  },
+  {
+    "lastaddress": "Wheatland",
+    "m_originalstate": "CA",
+    "pop": 44,
+    "lastaddress_lat": 39.0287,
+    "lastaddress_lng": -121.39
+  },
+  {
+    "lastaddress": "Fillmore",
+    "m_originalstate": "CA",
+    "pop": 39,
+    "lastaddress_lat": 34.3989,
+    "lastaddress_lng": -118.9181
+  },
+  {
+    "lastaddress": "Winlock",
+    "m_originalstate": "WA",
+    "pop": 35,
+    "lastaddress_lat": 46.4907,
+    "lastaddress_lng": -122.9342
+  },
+  {
+    "lastaddress": "Ukiah",
+    "m_originalstate": "CA",
+    "pop": 34,
+    "lastaddress_lat": 39.1463,
+    "lastaddress_lng": -123.2105
+  },
+  {
+    "lastaddress": "Napa",
+    "m_originalstate": "CA",
+    "pop": 32,
+    "lastaddress_lat": 38.2976,
+    "lastaddress_lng": -122.3011
+  },
+  {
+    "lastaddress": "Richland",
+    "m_originalstate": "WA",
+    "pop": 32,
+    "lastaddress_lat": 46.2824,
+    "lastaddress_lng": -119.2938
+  },
+  {
+    "lastaddress": "Bellingham",
+    "m_originalstate": "WA",
+    "pop": 29,
+    "lastaddress_lat": 48.7543,
+    "lastaddress_lng": -122.4687
+  },
+  {
+    "lastaddress": "Merced",
+    "m_originalstate": "CA",
+    "pop": 29,
+    "lastaddress_lat": 37.3057,
+    "lastaddress_lng": -120.4778
+  },
+  {
+    "lastaddress": "Wenatchee",
+    "m_originalstate": "WA",
+    "pop": 27,
+    "lastaddress_lat": 47.4356,
+    "lastaddress_lng": -120.3283
+  },
+  {
+    "lastaddress": "Mesa",
+    "m_originalstate": "AZ",
+    "pop": 26,
+    "lastaddress_lat": 33.4017,
+    "lastaddress_lng": -111.718
+  },
+  {
+    "lastaddress": "Red Bluff",
+    "m_originalstate": "CA",
+    "pop": 26,
+    "lastaddress_lat": 40.1735,
+    "lastaddress_lng": -122.2413
+  },
+  {
+    "lastaddress": "Roseville",
+    "m_originalstate": "CA",
+    "pop": 25,
+    "lastaddress_lat": 38.7703,
+    "lastaddress_lng": -121.3196
+  },
+  {
+    "lastaddress": "Coalinga",
+    "m_originalstate": "CA",
+    "pop": 24,
+    "lastaddress_lat": 36.143,
+    "lastaddress_lng": -120.3262
+  },
+  {
+    "lastaddress": "Oroville",
+    "m_originalstate": "CA",
+    "pop": 23,
+    "lastaddress_lat": 39.4999,
+    "lastaddress_lng": -121.5634
+  },
+  {
+    "lastaddress": "Healdsburg",
+    "m_originalstate": "CA",
+    "pop": 23,
+    "lastaddress_lat": 38.6229,
+    "lastaddress_lng": -122.8651
+  },
+  {
+    "lastaddress": "Hoquiam",
+    "m_originalstate": "WA",
+    "pop": 22,
+    "lastaddress_lat": 46.9863,
+    "lastaddress_lng": -123.9022
+  },
+  {
+    "lastaddress": "Vallejo",
+    "m_originalstate": "CA",
+    "pop": 22,
+    "lastaddress_lat": 38.1133,
+    "lastaddress_lng": -122.2358
+  },
+  {
+    "lastaddress": "Carmel-By-The-Sea",
+    "m_originalstate": "CA",
+    "pop": 21,
+    "lastaddress_lat": 0,
+    "lastaddress_lng": 0
+  },
+  {
+    "lastaddress": "Everett",
+    "m_originalstate": "WA",
+    "pop": 20,
+    "lastaddress_lat": 47.9525,
+    "lastaddress_lng": -122.1669
+  },
+  {
+    "lastaddress": "Clovis",
+    "m_originalstate": "NM",
+    "pop": 20,
+    "lastaddress_lat": 34.4376,
+    "lastaddress_lng": -103.1923
+  },
+  {
+    "lastaddress": "Shelton",
+    "m_originalstate": "WA",
+    "pop": 19,
+    "lastaddress_lat": 47.2186,
+    "lastaddress_lng": -123.112
+  },
+  {
+    "lastaddress": "Ross",
+    "m_originalstate": "CA",
+    "pop": 18,
+    "lastaddress_lat": 37.9638,
+    "lastaddress_lng": -122.5615
+  },
+  {
+    "lastaddress": "Sultan",
+    "m_originalstate": "WA",
+    "pop": 18,
+    "lastaddress_lat": 47.871,
+    "lastaddress_lng": -121.8043
+  },
+  {
+    "lastaddress": "Tehama",
+    "m_originalstate": "CA",
+    "pop": 16,
+    "lastaddress_lat": 40.0218,
+    "lastaddress_lng": -122.1269
+  },
+  {
+    "lastaddress": "Chehalis",
+    "m_originalstate": "WA",
+    "pop": 16,
+    "lastaddress_lat": 46.6638,
+    "lastaddress_lng": -122.965
+  },
+  {
+    "lastaddress": "Kelso",
+    "m_originalstate": "WA",
+    "pop": 15,
+    "lastaddress_lat": 46.1236,
+    "lastaddress_lng": -122.891
+  },
+  {
+    "lastaddress": "San Rafael",
+    "m_originalstate": "CA",
+    "pop": 14,
+    "lastaddress_lat": 37.9905,
+    "lastaddress_lng": -122.5222
+  },
+  {
+    "lastaddress": "Palm Springs",
+    "m_originalstate": "CA",
+    "pop": 14,
+    "lastaddress_lat": 33.8017,
+    "lastaddress_lng": -116.5382
+  },
+  {
+    "lastaddress": "Willits",
+    "m_originalstate": "CA",
+    "pop": 13,
+    "lastaddress_lat": 39.4047,
+    "lastaddress_lng": -123.3494
+  },
+  {
+    "lastaddress": "Port Townsend",
+    "m_originalstate": "WA",
+    "pop": 13,
+    "lastaddress_lat": 48.122,
+    "lastaddress_lng": -122.7872
+  },
+  {
+    "lastaddress": "Honeyville",
+    "m_originalstate": "UT",
+    "pop": 12,
+    "lastaddress_lat": 41.6361,
+    "lastaddress_lng": -112.0857
+  },
+  {
+    "lastaddress": "Sedro-Woodley",
+    "m_originalstate": "WA",
+    "pop": 11,
+    "lastaddress_lat": 0,
+    "lastaddress_lng": 0
+  },
+  {
+    "lastaddress": "New York",
+    "m_originalstate": "NY",
+    "pop": 10,
+    "lastaddress_lat": 40.6943,
+    "lastaddress_lng": -73.9249
+  },
+  {
+    "lastaddress": "Sequim",
+    "m_originalstate": "WA",
+    "pop": 10,
+    "lastaddress_lat": 48.0746,
+    "lastaddress_lng": -123.0944
+  },
+  {
+    "lastaddress": "Pacific Grove",
+    "m_originalstate": "CA",
+    "pop": 9,
+    "lastaddress_lat": 36.6192,
+    "lastaddress_lng": -121.9255
+  },
+  {
+    "lastaddress": "Sonora",
+    "m_originalstate": "CA",
+    "pop": 8,
+    "lastaddress_lat": 37.9819,
+    "lastaddress_lng": -120.3828
+  },
+  {
+    "lastaddress": "Raymond",
+    "m_originalstate": "WA",
+    "pop": 8,
+    "lastaddress_lat": 46.6839,
+    "lastaddress_lng": -123.738
+  },
+  {
+    "lastaddress": "Yuma",
+    "m_originalstate": "AZ",
+    "pop": 8,
+    "lastaddress_lat": 32.5992,
+    "lastaddress_lng": -114.5488
+  },
+  {
+    "lastaddress": "Yreka City",
+    "m_originalstate": "CA",
+    "pop": 7,
+    "lastaddress_lat": 0,
+    "lastaddress_lng": 0
+  },
+  {
+    "lastaddress": "Tucson",
+    "m_originalstate": "AZ",
+    "pop": 7,
+    "lastaddress_lat": 32.1545,
+    "lastaddress_lng": -110.8782
+  },
+  {
+    "lastaddress": "Orange",
+    "m_originalstate": "CA",
+    "pop": 6,
+    "lastaddress_lat": 33.8038,
+    "lastaddress_lng": -117.8218
+  },
+  {
+    "lastaddress": "Winkelman",
+    "m_originalstate": "AZ",
+    "pop": 6,
+    "lastaddress_lat": 32.9853,
+    "lastaddress_lng": -110.7651
+  },
+  {
+    "lastaddress": "St. Helena",
+    "m_originalstate": "CA",
+    "pop": 6,
+    "lastaddress_lat": 38.5063,
+    "lastaddress_lng": -122.4682
+  },
+  {
+    "lastaddress": "Sante Fe",
+    "m_originalstate": "NM",
+    "pop": 5,
+    "lastaddress_lat": 0,
+    "lastaddress_lng": 0
+  },
+  {
+    "lastaddress": "North Sacramento",
+    "m_originalstate": "CA",
+    "pop": 5,
+    "lastaddress_lat": 0,
+    "lastaddress_lng": 0
+  },
+  {
+    "lastaddress": "Sumas",
+    "m_originalstate": "WA",
+    "pop": 5,
+    "lastaddress_lat": 48.9956,
+    "lastaddress_lng": -122.2695
+  },
+  {
+    "lastaddress": "Philadelphia",
+    "m_originalstate": "PA",
+    "pop": 5,
+    "lastaddress_lat": 40.0077,
+    "lastaddress_lng": -75.1339
+  },
+  {
+    "lastaddress": "Wilcox",
+    "m_originalstate": "AZ",
+    "pop": 5,
+    "lastaddress_lat": 0,
+    "lastaddress_lng": 0
+  },
+  {
+    "lastaddress": "Grass Valley",
+    "m_originalstate": "CA",
+    "pop": 5,
+    "lastaddress_lat": 39.2237,
+    "lastaddress_lng": -121.0521
+  },
+  {
+    "lastaddress": "Yelm",
+    "m_originalstate": "WA",
+    "pop": 5,
+    "lastaddress_lat": 46.9398,
+    "lastaddress_lng": -122.6261
+  },
+  {
+    "lastaddress": "Kectley",
+    "m_originalstate": "UT",
+    "pop": 5,
+    "lastaddress_lat": 0,
+    "lastaddress_lng": 0
+  },
+  {
+    "lastaddress": "Alturas",
+    "m_originalstate": "CA",
+    "pop": 4,
+    "lastaddress_lat": 41.4898,
+    "lastaddress_lng": -120.5516
+  },
+  {
+    "lastaddress": "Rocky Falls",
+    "m_originalstate": "CO",
+    "pop": 4,
+    "lastaddress_lat": 0,
+    "lastaddress_lng": 0
+  },
+  {
+    "lastaddress": "Anacortes",
+    "m_originalstate": "WA",
+    "pop": 4,
+    "lastaddress_lat": 48.4878,
+    "lastaddress_lng": -122.6292
+  },
+  {
+    "lastaddress": "Chicago",
+    "m_originalstate": "IL",
+    "pop": 4,
+    "lastaddress_lat": 41.8373,
+    "lastaddress_lng": -87.6862
+  },
+  {
+    "lastaddress": "Placerville",
+    "m_originalstate": "CA",
+    "pop": 4,
+    "lastaddress_lat": 38.7308,
+    "lastaddress_lng": -120.7978
+  },
+  {
+    "lastaddress": "Clayton",
+    "m_originalstate": "MO",
+    "pop": 4,
+    "lastaddress_lat": 38.6444,
+    "lastaddress_lng": -90.3302
+  },
+  {
+    "lastaddress": "Friday Harbor",
+    "m_originalstate": "WA",
+    "pop": 4,
+    "lastaddress_lat": 48.5324,
+    "lastaddress_lng": -123.0655
+  },
+  {
+    "lastaddress": "Webster",
+    "m_originalstate": "TX",
+    "pop": 3,
+    "lastaddress_lat": 29.5317,
+    "lastaddress_lng": -95.1188
+  },
+  {
+    "lastaddress": "Mason",
+    "m_originalstate": "NV",
+    "pop": 3,
+    "lastaddress_lat": 0,
+    "lastaddress_lng": 0
+  },
+  {
+    "lastaddress": "B.C.",
+    "m_originalstate": "BC, Canada",
+    "pop": 3,
+    "lastaddress_lat": 0,
+    "lastaddress_lng": 0
+  },
+  {
+    "lastaddress": "York",
+    "m_originalstate": "PA",
+    "pop": 3,
+    "lastaddress_lat": 39.9651,
+    "lastaddress_lng": -76.7315
+  },
+  {
+    "lastaddress": "Cathlamet",
+    "m_originalstate": "WA",
+    "pop": 3,
+    "lastaddress_lat": 46.2055,
+    "lastaddress_lng": -123.3835
+  },
+  {
+    "lastaddress": "Centralia",
+    "m_originalstate": "WA",
+    "pop": 3,
+    "lastaddress_lat": 46.7226,
+    "lastaddress_lng": -122.9696
+  },
+  {
+    "lastaddress": "Wickenburg",
+    "m_originalstate": "AZ",
+    "pop": 3,
+    "lastaddress_lat": 33.9837,
+    "lastaddress_lng": -112.7668
+  },
+  {
+    "lastaddress": "Elmira",
+    "m_originalstate": "NY",
+    "pop": 3,
+    "lastaddress_lat": 42.0938,
+    "lastaddress_lng": -76.8097
+  },
+  {
+    "lastaddress": "Port Angeles",
+    "m_originalstate": "WA",
+    "pop": 3,
+    "lastaddress_lat": 48.1142,
+    "lastaddress_lng": -123.4565
+  },
+  {
+    "lastaddress": "Norfolk",
+    "m_originalstate": "VA",
+    "pop": 3,
+    "lastaddress_lat": 36.8945,
+    "lastaddress_lng": -76.259
+  },
+  {
+    "lastaddress": "Pullman",
+    "m_originalstate": "WA",
+    "pop": 3,
+    "lastaddress_lat": 46.734,
+    "lastaddress_lng": -117.1669
+  },
+  {
+    "lastaddress": "Pasco",
+    "m_originalstate": "WA",
+    "pop": 2,
+    "lastaddress_lat": 46.2506,
+    "lastaddress_lng": -119.1304
+  },
+  {
+    "lastaddress": "South San Francisco",
+    "m_originalstate": "CA",
+    "pop": 2,
+    "lastaddress_lat": 37.6536,
+    "lastaddress_lng": -122.4197
+  },
+  {
+    "lastaddress": "Angels",
+    "m_originalstate": "CA",
+    "pop": 2,
+    "lastaddress_lat": 38.0707,
+    "lastaddress_lng": -120.5501
+  },
+  {
+    "lastaddress": "Bismark",
+    "m_originalstate": "ND",
+    "pop": 2,
+    "lastaddress_lat": 0,
+    "lastaddress_lng": 0
+  },
+  {
+    "lastaddress": "Blackfoot",
+    "m_originalstate": "ID",
+    "pop": 2,
+    "lastaddress_lat": 43.194,
+    "lastaddress_lng": -112.3455
+  },
+  {
+    "lastaddress": "Paso Robles",
+    "m_originalstate": "CA",
+    "pop": 2,
+    "lastaddress_lat": 0,
+    "lastaddress_lng": 0
+  },
+  {
+    "lastaddress": "Oak Harbor",
+    "m_originalstate": "WA",
+    "pop": 2,
+    "lastaddress_lat": 48.2965,
+    "lastaddress_lng": -122.6333
+  },
+  {
+    "lastaddress": "St. Petersburg",
+    "m_originalstate": "FL",
+    "pop": 2,
+    "lastaddress_lat": 27.7931,
+    "lastaddress_lng": -82.6652
+  },
+  {
+    "lastaddress": "Lancaster",
+    "m_originalstate": "WI",
+    "pop": 2,
+    "lastaddress_lat": 42.8473,
+    "lastaddress_lng": -90.7065
+  },
+  {
+    "lastaddress": "Idaho Falls",
+    "m_originalstate": "ID",
+    "pop": 1,
+    "lastaddress_lat": 43.4872,
+    "lastaddress_lng": -112.0362
+  },
+  {
+    "lastaddress": "Poughkeepsie",
+    "m_originalstate": "NY",
+    "pop": 1,
+    "lastaddress_lat": 41.6949,
+    "lastaddress_lng": -73.921
+  },
+  {
+    "lastaddress": "Livingston",
+    "m_originalstate": "MT",
+    "pop": 1,
+    "lastaddress_lat": 45.6666,
+    "lastaddress_lng": -110.5538
+  },
+  {
+    "lastaddress": "Shelly",
+    "m_originalstate": "ID",
+    "pop": 1,
+    "lastaddress_lat": 0,
+    "lastaddress_lng": 0
+  },
+  {
+    "lastaddress": "Battle Creek",
+    "m_originalstate": "MI",
+    "pop": 1,
+    "lastaddress_lat": 42.2986,
+    "lastaddress_lng": -85.2296
+  },
+  {
+    "lastaddress": "Royal",
+    "m_originalstate": "UT",
+    "pop": 1,
+    "lastaddress_lat": 0,
+    "lastaddress_lng": 0
+  },
+  {
+    "lastaddress": "Birmingham",
+    "m_originalstate": "AL",
+    "pop": 1,
+    "lastaddress_lat": 33.5277,
+    "lastaddress_lng": -86.7987
+  },
+  {
+    "lastaddress": "Little Rock",
+    "m_originalstate": "AR",
+    "pop": 1,
+    "lastaddress_lat": 34.7256,
+    "lastaddress_lng": -92.3576
+  },
+  {
+    "lastaddress": "Leavenworth",
+    "m_originalstate": "WA",
+    "pop": 1,
+    "lastaddress_lat": 47.5948,
+    "lastaddress_lng": -120.6628
+  },
+  {
+    "lastaddress": "Bremerton",
+    "m_originalstate": "WA",
+    "pop": 1,
+    "lastaddress_lat": 47.5436,
+    "lastaddress_lng": -122.7122
+  },
+  {
+    "lastaddress": "Cansdale",
+    "m_originalstate": "PA",
+    "pop": 1,
+    "lastaddress_lat": 0,
+    "lastaddress_lng": 0
+  },
+  {
+    "lastaddress": "Pocatello",
+    "m_originalstate": "ID",
+    "pop": 1,
+    "lastaddress_lat": 42.8724,
+    "lastaddress_lng": -112.4646
+  },
+  {
+    "lastaddress": "Helena",
+    "m_originalstate": "MT",
+    "pop": 1,
+    "lastaddress_lat": 46.5965,
+    "lastaddress_lng": -112.0202
+  },
+  {
+    "lastaddress": "Chowchilla",
+    "m_originalstate": "CA",
+    "pop": 1,
+    "lastaddress_lat": 37.1095,
+    "lastaddress_lng": -120.2349
+  },
+  {
+    "lastaddress": "Clarkston",
+    "m_originalstate": "WA",
+    "pop": 1,
+    "lastaddress_lat": 46.4161,
+    "lastaddress_lng": -117.0505
+  },
+  {
+    "lastaddress": "Lakeport",
+    "m_originalstate": "CA",
+    "pop": 1,
+    "lastaddress_lat": 39.0392,
+    "lastaddress_lng": -122.9218
+  },
+  {
+    "lastaddress": "Clinton",
+    "m_originalstate": "MO",
+    "pop": 1,
+    "lastaddress_lat": 38.3716,
+    "lastaddress_lng": -93.7679
+  },
+  {
+    "lastaddress": "Missoula",
+    "m_originalstate": "MT",
+    "pop": 1,
+    "lastaddress_lat": 46.875,
+    "lastaddress_lng": -114.0214
+  },
+  {
+    "lastaddress": "Omaha",
+    "m_originalstate": "NE",
+    "pop": 1,
+    "lastaddress_lat": 41.2627,
+    "lastaddress_lng": -96.0522
+  },
+  {
+    "lastaddress": "Fort Upton",
+    "m_originalstate": "CO",
+    "pop": 1,
+    "lastaddress_lat": 0,
+    "lastaddress_lng": 0
+  },
+  {
+    "lastaddress": "Jerome",
+    "m_originalstate": "AZ",
+    "pop": 1,
+    "lastaddress_lat": 34.7466,
+    "lastaddress_lng": -112.1072
+  },
+  {
+    "lastaddress": "Glenbrock",
+    "m_originalstate": "NV",
+    "pop": 1,
+    "lastaddress_lat": 0,
+    "lastaddress_lng": 0
+  },
+  {
+    "lastaddress": "Greeley",
+    "m_originalstate": "CO",
+    "pop": 1,
+    "lastaddress_lat": 40.4151,
+    "lastaddress_lng": -104.7706
+  },
+  {
+    "lastaddress": "Nevada City",
+    "m_originalstate": "CA",
+    "pop": 1,
+    "lastaddress_lat": 39.2607,
+    "lastaddress_lng": -121.0231
+  }
+]

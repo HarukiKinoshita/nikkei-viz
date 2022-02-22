@@ -1,0 +1,106 @@
+[
+  {
+    "m_originalstate": "CA",
+    "pop": 90904
+  },
+  {
+    "m_originalstate": "WA",
+    "pop": 15890
+  },
+  {
+    "m_originalstate": "HI",
+    "pop": 1189
+  },
+  {
+    "m_originalstate": "Not Found",
+    "pop": 860
+  },
+  {
+    "m_originalstate": "AZ",
+    "pop": 248
+  },
+  {
+    "m_originalstate": "NM",
+    "pop": 25
+  },
+  {
+    "m_originalstate": "UT",
+    "pop": 18
+  },
+  {
+    "m_originalstate": "NY",
+    "pop": 14
+  },
+  {
+    "m_originalstate": "PA",
+    "pop": 9
+  },
+  {
+    "m_originalstate": "[Unknown]",
+    "pop": 9
+  },
+  {
+    "m_originalstate": "CO",
+    "pop": 6
+  },
+  {
+    "m_originalstate": "ID",
+    "pop": 5
+  },
+  {
+    "m_originalstate": "MO",
+    "pop": 5
+  },
+  {
+    "m_originalstate": "IL",
+    "pop": 4
+  },
+  {
+    "m_originalstate": "NV",
+    "pop": 4
+  },
+  {
+    "m_originalstate": "BC, Canada",
+    "pop": 3
+  },
+  {
+    "m_originalstate": "TX",
+    "pop": 3
+  },
+  {
+    "m_originalstate": "MT",
+    "pop": 3
+  },
+  {
+    "m_originalstate": "VA",
+    "pop": 3
+  },
+  {
+    "m_originalstate": "FL",
+    "pop": 2
+  },
+  {
+    "m_originalstate": "ND",
+    "pop": 2
+  },
+  {
+    "m_originalstate": "WI",
+    "pop": 2
+  },
+  {
+    "m_originalstate": "NE",
+    "pop": 1
+  },
+  {
+    "m_originalstate": "AL",
+    "pop": 1
+  },
+  {
+    "m_originalstate": "MI",
+    "pop": 1
+  },
+  {
+    "m_originalstate": "AR",
+    "pop": 1
+  }
+]
