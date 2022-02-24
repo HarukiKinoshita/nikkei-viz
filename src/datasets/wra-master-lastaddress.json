@@ -241,8 +241,8 @@
     "lastaddress": "Oahu",
     "m_originalstate": "HI",
     "pop": 621,
-    "lastaddress_lat": 0,
-    "lastaddress_lng": 0
+    "lastaddress_lat": 21.473,
+    "lastaddress_lng": -157.9868
   },
   {
     "lastaddress": "Tukwila",
@@ -444,8 +444,8 @@
     "lastaddress": "San Juan",
     "m_originalstate": "CA",
     "pop": 274,
-    "lastaddress_lat": 0,
-    "lastaddress_lng": 0
+    "lastaddress_lat": 33.5009,
+    "lastaddress_lng": -117.6544
   },
   {
     "lastaddress": "Fullerton",
@@ -465,8 +465,8 @@
     "lastaddress": "Coronada",
     "m_originalstate": "CA",
     "pop": 248,
-    "lastaddress_lat": 0,
-    "lastaddress_lng": 0
+    "lastaddress_lat": 32.6640,
+    "lastaddress_lng": -117.1600
   },
   {
     "lastaddress": "Auburn",
@@ -493,8 +493,8 @@
     "lastaddress": "Hawaii",
     "m_originalstate": "HI",
     "pop": 240,
-    "lastaddress_lat": 0,
-    "lastaddress_lng": 0
+    "lastaddress_lat": 19.566667,
+    "lastaddress_lng": -155.5
   },
   {
     "lastaddress": "Lawndale",
@@ -514,8 +514,8 @@
     "lastaddress": "Maui",
     "m_originalstate": "HI",
     "pop": 234,
-    "lastaddress_lat": 0,
-    "lastaddress_lng": 0
+    "lastaddress_lat": 20.8,
+    "lastaddress_lng": -156.333333
   },
   {
     "lastaddress": "San Leandro",
@@ -542,8 +542,8 @@
     "lastaddress": "San Luis Obisbo",
     "m_originalstate": "CA",
     "pop": 191,
-    "lastaddress_lat": 0,
-    "lastaddress_lng": 0
+    "lastaddress_lat": 35.2669,
+    "lastaddress_lng": -120.6691
   },
   {
     "lastaddress": "Tehachapi",
@@ -560,11 +560,11 @@
     "lastaddress_lng": -120.0782
   },
   {
-    "lastaddress": "WIlliams",
+    "lastaddress": "Williams",
     "m_originalstate": "CA",
     "pop": 177,
-    "lastaddress_lat": 0,
-    "lastaddress_lng": 0
+    "lastaddress_lat": 39.154722,
+    "lastaddress_lng": -122.149444
   },
   {
     "lastaddress": "Lompoc",
@@ -682,8 +682,8 @@
     "lastaddress": "Kauai",
     "m_originalstate": "HI",
     "pop": 94,
-    "lastaddress_lat": 0,
-    "lastaddress_lng": 0
+    "lastaddress_lat": 22.083333,
+    "lastaddress_lng": -159.5
   },
   {
     "lastaddress": "Needles",
@@ -941,8 +941,8 @@
     "lastaddress": "Carmel-By-The-Sea",
     "m_originalstate": "CA",
     "pop": 21,
-    "lastaddress_lat": 0,
-    "lastaddress_lng": 0
+    "lastaddress_lat": 36.5528,
+    "lastaddress_lng": -121.9222
   },
   {
     "lastaddress": "Everett",
@@ -1039,8 +1039,8 @@
     "lastaddress": "Sedro-Woodley",
     "m_originalstate": "WA",
     "pop": 11,
-    "lastaddress_lat": 0,
-    "lastaddress_lng": 0
+    "lastaddress_lat": 48.5112,
+    "lastaddress_lng": -122.2321
   },
   {
     "lastaddress": "New York",
@@ -1088,8 +1088,8 @@
     "lastaddress": "Yreka City",
     "m_originalstate": "CA",
     "pop": 7,
-    "lastaddress_lat": 0,
-    "lastaddress_lng": 0
+    "lastaddress_lat": 41.7292,
+    "lastaddress_lng": -122.6312
   },
   {
     "lastaddress": "Tucson",
@@ -1123,15 +1123,15 @@
     "lastaddress": "Sante Fe",
     "m_originalstate": "NM",
     "pop": 5,
-    "lastaddress_lat": 0,
-    "lastaddress_lng": 0
+    "lastaddress_lat": 35.691544,
+    "lastaddress_lng": -105.944183
   },
   {
     "lastaddress": "North Sacramento",
     "m_originalstate": "CA",
     "pop": 5,
-    "lastaddress_lat": 0,
-    "lastaddress_lng": 0
+    "lastaddress_lat": 38.606110,
+    "lastaddress_lng": -121.457497
   },
   {
     "lastaddress": "Sumas",
@@ -1151,8 +1151,8 @@
     "lastaddress": "Wilcox",
     "m_originalstate": "AZ",
     "pop": 5,
-    "lastaddress_lat": 0,
-    "lastaddress_lng": 0
+    "lastaddress_lat": 32.252853,
+    "lastaddress_lng": -109.832008
   },
   {
     "lastaddress": "Grass Valley",
@@ -1169,11 +1169,11 @@
     "lastaddress_lng": -122.6261
   },
   {
-    "lastaddress": "Kectley",
+    "lastaddress": "Keetley",
     "m_originalstate": "UT",
     "pop": 5,
-    "lastaddress_lat": 0,
-    "lastaddress_lng": 0
+    "lastaddress_lat": 40.635556,
+    "lastaddress_lng": -111.414722
   },
   {
     "lastaddress": "Alturas",
@@ -1235,15 +1235,15 @@
     "lastaddress": "Mason",
     "m_originalstate": "NV",
     "pop": 3,
-    "lastaddress_lat": 0,
-    "lastaddress_lng": 0
+    "lastaddress_lat": 38.95,
+    "lastaddress_lng": -119.190278
   },
   {
     "lastaddress": "B.C.",
     "m_originalstate": "BC, Canada",
     "pop": 3,
-    "lastaddress_lat": 0,
-    "lastaddress_lng": 0
+    "lastaddress_lat": 49.261111,
+    "lastaddress_lng": -123.113889
   },
   {
     "lastaddress": "York",
@@ -1323,11 +1323,11 @@
     "lastaddress_lng": -120.5501
   },
   {
-    "lastaddress": "Bismark",
+    "lastaddress": "Bismarck",
     "m_originalstate": "ND",
     "pop": 2,
-    "lastaddress_lat": 0,
-    "lastaddress_lng": 0
+    "lastaddress_lat": 46.8144,
+    "lastaddress_lng": -100.7694
   },
   {
     "lastaddress": "Blackfoot",
@@ -1340,8 +1340,8 @@
     "lastaddress": "Paso Robles",
     "m_originalstate": "CA",
     "pop": 2,
-    "lastaddress_lat": 0,
-    "lastaddress_lng": 0
+    "lastaddress_lat": 35.626667,
+    "lastaddress_lng": -120.69
   },
   {
     "lastaddress": "Oak Harbor",
@@ -1389,8 +1389,8 @@
     "lastaddress": "Shelly",
     "m_originalstate": "ID",
     "pop": 1,
-    "lastaddress_lat": 0,
-    "lastaddress_lng": 0
+    "lastaddress_lat": 43.379444,
+    "lastaddress_lng": -112.123889
   },
   {
     "lastaddress": "Battle Creek",
@@ -1403,8 +1403,8 @@
     "lastaddress": "Royal",
     "m_originalstate": "UT",
     "pop": 1,
-    "lastaddress_lat": 0,
-    "lastaddress_lng": 0
+    "lastaddress_lat": 39.746111,
+    "lastaddress_lng": -110.880278
   },
   {
     "lastaddress": "Birmingham",
@@ -1435,11 +1435,11 @@
     "lastaddress_lng": -122.7122
   },
   {
-    "lastaddress": "Cansdale",
+    "lastaddress": "Lansdale",
     "m_originalstate": "PA",
     "pop": 1,
-    "lastaddress_lat": 0,
-    "lastaddress_lng": 0
+    "lastaddress_lat": 40.2417,
+    "lastaddress_lng": -75.2812
   },
   {
     "lastaddress": "Pocatello",
@@ -1498,11 +1498,11 @@
     "lastaddress_lng": -96.0522
   },
   {
-    "lastaddress": "Fort Upton",
+    "lastaddress": "Fort Lupton",
     "m_originalstate": "CO",
     "pop": 1,
-    "lastaddress_lat": 0,
-    "lastaddress_lng": 0
+    "lastaddress_lat": 40.0831,
+    "lastaddress_lng": -104.8024
   },
   {
     "lastaddress": "Jerome",
@@ -1512,11 +1512,11 @@
     "lastaddress_lng": -112.1072
   },
   {
-    "lastaddress": "Glenbrock",
+    "lastaddress": "Glenbrook",
     "m_originalstate": "NV",
     "pop": 1,
-    "lastaddress_lat": 0,
-    "lastaddress_lng": 0
+    "lastaddress_lat": 39.0986,
+    "lastaddress_lng": -119.9341
   },
   {
     "lastaddress": "Greeley",
