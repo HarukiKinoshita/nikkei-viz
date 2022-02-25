@@ -56,8 +56,8 @@
   {
     "w_assemblycenter": "Sacramento (Walerga)",
     "pop": 4595,
-    "w_assemblycenter_lat": 0,
-    "w_assemblycenter_lng": 0
+    "w_assemblycenter_lat": 38.5667,
+    "w_assemblycenter_lng": -121.4833
   },
   {
     "w_assemblycenter": "Stockton",
@@ -92,8 +92,8 @@
   {
     "w_assemblycenter": "Marysville (Arboga)",
     "pop": 2403,
-    "w_assemblycenter_lat": 0,
-    "w_assemblycenter_lng": 0
+    "w_assemblycenter_lat": 39.05,
+    "w_assemblycenter_lng": -121.55
   },
   {
     "w_assemblycenter": "Mayer",
